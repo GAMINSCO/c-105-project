@@ -1,0 +1,59 @@
+#heading{
+    width:60%;
+    font-size: 22px;
+    color:#f4a261;
+    background:#023047;
+    font-weight: 600;
+}
+
+body{
+    color:#ffb703;
+    background-color:#023047;
+}
+
+.people{
+    color:#ffb703;
+}
+
+#camera{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+
+#result{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+
+.forpeople{
+    background-color:black;
+    height: 3px;
+}
+
+.item{
+    width:100%;
+    height:40px;
+    background-color:#023047;
+    color:#ffb703;
+    font-weight: bold;
+    font-size:18px;
+    border:1px dotted white;
+}
+
+#btn_take-photo{
+    color:black;
+    background: #38a3a5;
+    font-weight: 700;
+    font-size: 18px;
+    width:40%;
+}
+
+#btn_recognise{
+    color: black;
+    background: #80ed99;
+    font-weight: 700;
+    font-size: 18px;
+    width:40%
+}
